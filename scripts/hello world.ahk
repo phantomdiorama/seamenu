@@ -1,0 +1,2 @@
+﻿msgbox, hello world
+return

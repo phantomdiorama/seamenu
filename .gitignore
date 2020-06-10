@@ -1,0 +1,5 @@
+# ignore 'shortcuts'
+*.lnk
+
+# ignore 'test' folder
+test/
